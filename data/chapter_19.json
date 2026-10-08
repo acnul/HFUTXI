@@ -1,0 +1,284 @@
+[
+  {
+    "uuid": "d2482ee0-af72-4d85-a4c2-6c0cde571bac",
+    "type": "多选题",
+    "content": "始终坚持用习近平新时代中国特色社会主义思想凝心铸魂，就要联系党领导人民正在做的事反复悟、深入悟，通过学习来（  ）。",
+    "options": [
+      {
+        "index": "A",
+        "content": "坚定政治方向"
+      },
+      {
+        "index": "B",
+        "content": "筑牢理想信念"
+      },
+      {
+        "index": "C",
+        "content": "提高素质能力"
+      },
+      {
+        "index": "D",
+        "content": "提振奋斗精神"
+      }
+    ],
+    "answer": "ABCD",
+    "global_accuracy": "99.4%",
+    "number": 1,
+    "explanation": "深入学习和领悟习近平新时代中国特色社会主义思想，要求将理论深化转化为青年成长成才的全面素质与行动力量。这一转化涵盖了从思想根基到行动状态的完整要求：\n\n政治与信仰层面，通过理论清醒来坚定政治方向，通过深刻的理论认同筑牢马克思主义和共产主义的理想信念，明确政治立场和前进航向；\n\n能力与担当层面，通过科学理论武装提高综合素质与实践能力，练就担负复兴重任的过硬本领；同时以强大的精神支撑提振奋斗精神，保持昂扬进取的奋斗姿态。\n\n这四个方面分别从政治立场、思想根基、过硬本领与精神状态切入，构成了青年学生深化理论武装的有机统一整体，因此A、B、C、D均成立。",
+    "support": "strong",
+    "unresolved": [],
+    "citations": [
+      {
+        "id": "E1",
+        "key": "d2482ee0-af72-4d85-a4c2-6c0cde571bac:E1",
+        "quote": "青春逢盛世，学习正当时。当代大学生是强国先锋、复兴栋梁，应当始终坚定对马克思主义的信仰，始终坚持用习近平新时代中国特色社会主义思想凝心铸魂，始终沿着科学理论指引的方向奋勇前进。课程结束不等于学习的结束。要保持学习马克思主义理论的热情和钻劲，紧跟党的理论创新步伐及时学、系统学，联系党领导人民正在做的事反复悟、深入悟，通过学习坚定政治方向、筑牢理想信念、提高素质能力、提振奋斗精神。以理论清醒保持政治坚定。青年学生肩负着强国建设、民族复兴的历史重任，保持政治上的坚定是完成使命的根本前提。",
+        "chapter": "第十七章全面从严治党",
+        "section": "第四节 建设长期执政的马克思主义政党",
+        "heading": "本章小结",
+        "book_pages": [
+          363,
+          364
+        ],
+        "original_quote": "要保持学习马克思主义理论的热情和钻劲，紧跟党的理论创新步伐及时学、系统学，联系党领导人民正在做的事反复悟、深入悟，通过学习坚定政治方向、筑牢理想信念、提高素质能力、提振奋斗精神。",
+        "original_book_pages": [
+          364
+        ],
+        "core_range": {
+          "start": 101,
+          "end": 190
+        },
+        "context_before": "青春逢盛世，学习正当时。当代大学生是强国先锋、复兴栋梁，应当始终坚定对马克思主义的信仰，始终坚持用习近平新时代中国特色社会主义思想凝心铸魂，始终沿着科学理论指引的方向奋勇前进。课程结束不等于学习的结束。",
+        "context_after": "以理论清醒保持政治坚定。青年学生肩负着强国建设、民族复兴的历史重任，保持政治上的坚定是完成使命的根本前提。",
+        "context_source": {
+          "window_id": "W1027",
+          "first_coordinate": [
+            363,
+            19,
+            0
+          ],
+          "last_coordinate": [
+            364,
+            7,
+            23
+          ],
+          "extra_chars_per_side_limit": 120
+        }
+      }
+    ],
+    "differences": [],
+    "related": [],
+    "answer_highlights": [
+      {
+        "evidence_key": "d2482ee0-af72-4d85-a4c2-6c0cde571bac:E1",
+        "answer_options": [
+          "A",
+          "B",
+          "C",
+          "D"
+        ],
+        "reference_ranges": [
+          {
+            "start": 162,
+            "end": 189
+          }
+        ],
+        "textbook_span": "坚定政治方向、筑牢理想信念、提高素质能力、提振奋斗精神",
+        "reason": "教材明确指出联系党领导人民正在做的事反复悟、深入悟，通过学习实现“坚定政治方向、筑牢理想信念、提高素质能力、提振奋斗精神”，直接支持A、B、C、D四个选项。"
+      }
+    ],
+    "answer_coverage": [
+      {
+        "option_index": "A",
+        "status": "supported",
+        "reason": "教材直接列出“坚定政治方向”"
+      },
+      {
+        "option_index": "B",
+        "status": "supported",
+        "reason": "教材直接列出“筑牢理想信念”"
+      },
+      {
+        "option_index": "C",
+        "status": "supported",
+        "reason": "教材直接列出“提高素质能力”"
+      },
+      {
+        "option_index": "D",
+        "status": "supported",
+        "reason": "教材直接列出“提振奋斗精神”"
+      }
+    ],
+    "highlight_unresolved": [],
+    "highlight_method": "llm-answer-and-difference-v2"
+  },
+  {
+    "uuid": "aafdf009-150d-4d73-9575-6a21b390dc80",
+    "type": "判断题",
+    "content": "青年一代有信仰、有担当，国家就有前途，民族就有希望。",
+    "options": [
+      {
+        "index": "A",
+        "content": "正确"
+      },
+      {
+        "index": "B",
+        "content": "错误"
+      }
+    ],
+    "answer": "A",
+    "global_accuracy": "100%",
+    "number": 3,
+    "explanation": "青年肩负着强国建设、民族复兴的历史使命。青年一代树立科学理论信仰、勇于承担时代责任，国家的发展和民族的复兴才有源源不断的动力与未来支撑。题干对青年信仰、担当与国家、民族前途命运之间关系的判断完全成立。",
+    "support": "strong",
+    "unresolved": [],
+    "citations": [
+      {
+        "id": "E1",
+        "key": "aafdf009-150d-4d73-9575-6a21b390dc80:E1",
+        "quote": "以理论认同筑牢信念根基。心有所信，方能行远。青年一代有信仰有担当，国家就有前途，民族就有希望。学习践行习近平新时代中国特色社会主义思想，要用科学理论解答理想与现实、问题与主义、利己与利他、小我与大我、民族与世界等方面的思想困惑，不断认识真理、追求真理、笃行真理，坚定共产主义远大理想和中国特色社会主义共同理想，争当伟大理想的追梦人，争",
+        "chapter": "第十七章全面从严治党",
+        "section": "第四节 建设长期执政的马克思主义政党",
+        "heading": "本章小结",
+        "book_pages": [
+          364
+        ],
+        "original_quote": "青年一代有信仰有担当，国家就有前途，民族就有希望。",
+        "original_book_pages": [
+          364
+        ],
+        "core_range": {
+          "start": 22,
+          "end": 47
+        },
+        "context_before": "以理论认同筑牢信念根基。心有所信，方能行远。",
+        "context_after": "学习践行习近平新时代中国特色社会主义思想，要用科学理论解答理想与现实、问题与主义、利己与利他、小我与大我、民族与世界等方面的思想困惑，不断认识真理、追求真理、笃行真理，坚定共产主义远大理想和中国特色社会主义共同理想，争当伟大理想的追梦人，争",
+        "context_source": {
+          "window_id": "W1030",
+          "first_coordinate": [
+            364,
+            11,
+            0
+          ],
+          "last_coordinate": [
+            364,
+            16,
+            13
+          ],
+          "extra_chars_per_side_limit": 120
+        }
+      }
+    ],
+    "differences": [],
+    "related": [],
+    "answer_highlights": [
+      {
+        "evidence_key": "aafdf009-150d-4d73-9575-6a21b390dc80:E1",
+        "answer_options": [
+          "A"
+        ],
+        "reference_ranges": [
+          {
+            "start": 22,
+            "end": 47
+          }
+        ],
+        "textbook_span": "青年一代有信仰有担当，国家就有前途，民族就有希望。",
+        "reason": "教材明确指出青年一代有信仰、有担当与国家前途、民族希望的因果联系，直接支持原命题正确。"
+      }
+    ],
+    "answer_coverage": [
+      {
+        "option_index": "A",
+        "status": "supported",
+        "reason": "教材原文直接支持题干表述。"
+      }
+    ],
+    "highlight_unresolved": [],
+    "highlight_method": "llm-answer-and-difference-v2"
+  },
+  {
+    "uuid": "07749d69-0380-4f2d-84d3-97a0c8ce4f27",
+    "type": "判断题",
+    "content": "青年学生肩负着强国建设、民族复兴的历史重任，保持政治上的坚定是完成使命的根本前提。",
+    "options": [
+      {
+        "index": "A",
+        "content": "正确"
+      },
+      {
+        "index": "B",
+        "content": "错误"
+      }
+    ],
+    "answer": "A",
+    "global_accuracy": "99.9%",
+    "number": 4,
+    "explanation": "强国建设与民族复兴是党领导的伟大事业，青年学生要承担这一历史重任，首要的是确立正确的政治方向与政治立场。\n\n保持政治上的坚定，核心在于深刻领悟“两个确立”的决定性意义，坚定听党话、跟党走的政治信念，自觉把个人理想追求融入党和国家事业之中。面对多元思潮与各类风险挑战，只有在政治上清醒坚定、不偏离航向，才能始终同党和人民站在一起，为强国复兴贡献力量。因此，保持政治上的坚定是完成该使命的根本前提，题干判断正确。",
+    "support": "strong",
+    "unresolved": [],
+    "citations": [
+      {
+        "id": "E1",
+        "key": "07749d69-0380-4f2d-84d3-97a0c8ce4f27:E1",
+        "quote": "以理论清醒保持政治坚定。青年学生肩负着强国建设、民族复兴的历史重任，保持政治上的坚定是完成使命的根本前提。学习践行习近平新时代中国特色社会主义思想，要把掌握科学理论同保持政治坚定结合起来，深刻领悟“两个确立”的决定性意义，坚定听党话、跟党走的政治信念，把个人理想追求融入党和国家事业之中。以理论认同筑牢信念根基。心有所信，方能行远。",
+        "chapter": "第十七章全面从严治党",
+        "section": "第四节 建设长期执政的马克思主义政党",
+        "heading": "本章小结",
+        "book_pages": [
+          364
+        ],
+        "original_quote": "青年学生肩负着强国建设、民族复兴的历史重任，保持政治上的坚定是完成使命的根本前提。",
+        "original_book_pages": [
+          364
+        ],
+        "core_range": {
+          "start": 12,
+          "end": 53
+        },
+        "context_before": "以理论清醒保持政治坚定。",
+        "context_after": "学习践行习近平新时代中国特色社会主义思想，要把掌握科学理论同保持政治坚定结合起来，深刻领悟“两个确立”的决定性意义，坚定听党话、跟党走的政治信念，把个人理想追求融入党和国家事业之中。以理论认同筑牢信念根基。心有所信，方能行远。",
+        "context_source": {
+          "window_id": "W1029",
+          "first_coordinate": [
+            364,
+            6,
+            0
+          ],
+          "last_coordinate": [
+            364,
+            11,
+            21
+          ],
+          "extra_chars_per_side_limit": 120
+        }
+      }
+    ],
+    "differences": [],
+    "related": [],
+    "answer_highlights": [
+      {
+        "evidence_key": "07749d69-0380-4f2d-84d3-97a0c8ce4f27:E1",
+        "answer_options": [
+          "A"
+        ],
+        "reference_ranges": [
+          {
+            "start": 12,
+            "end": 52
+          }
+        ],
+        "textbook_span": "青年学生肩负着强国建设、民族复兴的历史重任，保持政治上的坚定是完成使命的根本前提",
+        "reason": "教材明确指出青年学生保持政治上的坚定是完成强国建设、民族复兴历史重任的根本前提，题干命题与原文完全一致，支持判为正确。"
+      }
+    ],
+    "answer_coverage": [
+      {
+        "option_index": "A",
+        "status": "supported",
+        "reason": "教材原文直接给出完全一致的表述，充分支持判断正确。"
+      }
+    ],
+    "highlight_unresolved": [],
+    "highlight_method": "llm-answer-and-difference-v2"
+  }
+]
